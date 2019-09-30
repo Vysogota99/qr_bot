@@ -1,0 +1,3 @@
+BASE_URL = "https://api.telegram.org/bot"
+ACCESS_TOKEN = "732775790:AAEFRwaeFw9EstJvAFWTVeHL-fW024NzZeI"
+URL = BASE_URL+ACCESS_TOKEN+'/'
